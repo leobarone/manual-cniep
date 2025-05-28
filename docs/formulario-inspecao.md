@@ -12,7 +12,7 @@ Durante o preenchimento:
 - **Importante**: esta versão de testes **não salva automaticamente** as respostas.
   - Se a página for atualizada manualmente (refresh) ou se houver mudança de rota, as informações preenchidas **serão perdidas**.
 
-![Exemplo de preenchimento de questões](./assets/preenchimento-questoes.png)
+![Exemplo de preenchimento de questões](assets/preenchimento-questoes.png)
 
 ---
 
@@ -33,7 +33,7 @@ A interface do formulário foi desenhada para facilitar o preenchimento por meio
 - **Instruções e explicações**:
   - Textos introdutórios ajudam a contextualizar cada seção e cada fonte de verificação.
 
-![Interface com barras laterais e botões](./assets/navegacao-formulario.png)
+![Interface com barras laterais e botões](assets/navegacao-formulario.png)
 
 ---
 

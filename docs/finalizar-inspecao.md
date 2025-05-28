@@ -13,7 +13,7 @@ Preencha os seguintes campos:
 - **Identificação da equipe**:
   - Insira os nomes de todas as pessoas que participaram da inspeção.
 
-![Tela de preenchimento da data e equipe](./assets/data-equipe.png)
+![Tela de preenchimento da data e equipe](assets/data-equipe.png)
 
 ---
 
@@ -29,7 +29,7 @@ Após inserir os dados da equipe, o sistema oferece duas opções:
 
 Escolha a opção desejada clicando no botão correspondente.
 
-![Botões de finalização](./assets/finalizar-inspecao.png)
+![Botões de finalização](assets/finalizar-inspecao.png)
 
 ---
 

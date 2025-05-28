@@ -13,7 +13,7 @@ Na página inicial, localize o **Painel de Inspeções**. Para iniciar uma nova 
 
 **Caminho:** Página Inicial → Painel de Inspeções → Nova Inspeção
 
-![Botão Nova Inspeção no painel](./assets/nova-inspecao.png)
+![Botão Nova Inspeção no painel](assets/nova-inspecao.png)
 
 ---
 
@@ -29,7 +29,7 @@ Na tela de criação da inspeção, siga os seguintes passos:
 
 **Caminho completo:** UF → Nome do Estabelecimento → Tema → Criar Inspeção
 
-![Formulário de criação de inspeção](./assets/criar-inspecao-form.png)
+![Formulário de criação de inspeção](assets/criar-inspecao-form.png)
 
 ---
 

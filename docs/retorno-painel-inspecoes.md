@@ -12,7 +12,7 @@ No Painel de Inspeções, você poderá:
 - Acompanhar o status de inspeções em andamento.
 - Iniciar novas inspeções, se necessário.
 
-![Exemplo do painel de inspeções](./assets/painel-inspecoes.png)
+![Exemplo do painel de inspeções](assets/painel-inspecoes.png)
 
 ---
 

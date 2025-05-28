@@ -11,7 +11,7 @@ O Relatório de Providências é um instrumento complementar ao formulário da i
 - **Não há navegação por seções** nem barra de progresso.
 - As respostas devem conter observações e medidas sugeridas de forma objetiva e direta.
 
-![Tela do Relatório de Providências](./assets/relatorio-providencias.png)
+![Tela do Relatório de Providências](assets/relatorio-providencias.png)
 
 > ⚖️ O Relatório de Providências é um instrumento **pós-inspeção**, voltado à autoridade judicial. Ele serve para registrar **ações a serem tomadas** frente às irregularidades ou fragilidades observadas no estabelecimento penal.
 

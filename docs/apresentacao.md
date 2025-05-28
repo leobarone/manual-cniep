@@ -28,7 +28,7 @@ A tela de login solicita:
 - Senha
 - Confirmação com botão “Entrar”
 
-![Tela de login do CNIEP](./assets/tela-login.png)
+![Tela de login do CNIEP](assets/tela-login.png)
 
 ---
 
