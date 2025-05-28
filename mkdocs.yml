@@ -1,0 +1,12 @@
+site_name: Manual do CNIEP
+theme:
+  name: material
+  language: pt-BR
+
+nav:
+  - Introdução: apresentacao.md
+  - Criar Inspeção: criar-inspecao.md
+  - Preenchimento do Formulário: formulario-inspecao.md
+  - Finalizar Inspeção: finalizar-inspecao.md
+  - Relatório de Providências: relatorio-providencias.md
+  - Retorno ao Painel: retorno-painel-inspecoes.md
