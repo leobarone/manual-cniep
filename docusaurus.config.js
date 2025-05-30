@@ -34,7 +34,7 @@ const config = {
       ({
         docs: {
           sidebarPath: './sidebars.js',
-          routeBasePath: '/docs', // mantém /docs como base
+          routeBasePath: '/',
         },
         blog: false, // remove o blog
         theme: {

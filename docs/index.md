@@ -1,24 +1,27 @@
-# Manual do Usuário – CNIEP
+# Manual do CNIEP
 
-Bem-vindo ao manual oficial do sistema **CNIEP – Cadastro Nacional de Inspeções nos Estabelecimentos Penais**, instituído pela Resolução CNJ nº 593/2024.
+Bem-vindo ao Manual do Cadastro Nacional de Inspeções nos Estabelecimentos Penais – CNIEP.
 
-Este guia orienta passo a passo o uso da nova ferramenta digital, da criação de inspeções ao envio de relatórios.
-
----
-
-## 📚 Sumário
-
-- [👉 Criar uma nova inspeção](criar-inspecao.md)
-- [📝 Preenchimento do formulário](formulario-inspecao.md)
-- [✅ Finalizar a inspeção](finalizar-inspecao.md)
-- [📄 Relatório de Providências](relatorio-providencias.md)
-- [📋 Retorno ao Painel de Inspeções](retorno-painel-inspecoes.md)
+Este guia apresenta passo a passo o uso do sistema, desde o acesso inicial até a submissão do relatório final.
 
 ---
 
-## ℹ️ Sobre o CNIEP
+## 📘 Sumário
 
-O CNIEP é uma ferramenta fundamental para o monitoramento nacional das condições dos estabelecimentos penais. Este manual foi desenvolvido para apoiar os(as) usuários(as) em todas as etapas da inspeção.
+1. [Acesso à Página Inicial do CNIEP](01-acesso-inicial.md)  
+2. [Painel de Inspeção](02-painel-inspecao.md)  
+3. [Iniciar Nova Inspeção](03-iniciar-nova-inspecao.md)  
+4. Formulário de Inspeção Prisional  
+   - [4.1 Fontes de Verificação](04_1-fontes-verificacao.md)  
+   - [4.2 Questões](04_2-questoes.md)  
+   - [4.3 Navegar por Seções](04_3-navegar-secoes.md)  
+   - [4.4 Submeter Formulário](04_4-submeter-formulario.md)  
+5. [Editar Inspeção](05-editar-inspecao.md)  
+6. [Finalização da Inspeção](06-finalizacao.md)  
+7. [Relatório de Providências](07-relatorio-providencias.md)  
+8. [Como Altero Meus Dados?](08-alterar-meus-dados.md)  
+9. [Como Solicito Nova Senha?](09-solicitar-nova-senha.md)
 
-Para dúvidas, sugestões ou problemas, entre em contato com:  
-📧 `dadosfj@cnj.jus.br`
+---
+
+> Em caso de dúvidas, entre em contato com: **dadosfj@cnj.jus.br**
