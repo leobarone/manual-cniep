@@ -52,7 +52,7 @@ const config = {
         title: 'CNIEP',
         logo: {
           alt: 'Logo CNIEP',
-          src: 'img/logo.svg', // substitua por seu logo
+          src: 'img/logo-cnj.png', // substitua por seu logo
         },
         items: [
           {
