@@ -76,7 +76,7 @@ const config = {
             items: [
               {
                 label: 'Manual do Usuário',
-                to: '/manual-cniep/docs',
+                to: '/',
               },
             ],
           },

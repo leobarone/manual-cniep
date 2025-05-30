@@ -14,7 +14,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
         <Link
           className="button button--secondary button--lg"
-          to="/">
+          to="/acesso-inicial">
           Acessar Manual do Sistema CNIEP 📘
         </Link>
 

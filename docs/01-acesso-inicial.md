@@ -10,11 +10,7 @@ O sistema foi desenvolvido no âmbito do programa **Pena Justa**, em parceria co
 
 Para acessar o sistema, abra o navegador e digite o seguinte endereço:
 
-```
-
 [https://cniep2.stg.cloud.cnj.jus.br/](https://cniep2.stg.cloud.cnj.jus.br/)
-
-```
 
 A seguinte tela será exibida:
 
